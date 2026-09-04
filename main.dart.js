@@ -96505,7 +96505,7 @@ A.WW.prototype={
 uO(a){return this.ajs(a)},
 ajs(a){var s=0,r=A.v(t.H),q,p,o
 var $async$uO=A.q(function(b,c){if(b===1)return A.r(c,r)
-for(;;)switch(s){case 0:p=A.Us("https://example.com/pinkie-store.apk")
+for(;;)switch(s){case 0:p=A.Us("https://github.com/rehza97/pinkie-store-releases/releases/latest/download/app-release.apk")
 o=p!=null
 if(o){s=5
 break}else c=o
